@@ -16,13 +16,13 @@ npm install str-interpolator
 
 Use the `strInterpolator` function to replace placeholders in a string with corresponding values from an object.
 
-![Basic Example](readmeAssets/Basic-Example.png)
+![Basic Example](https://raw.githubusercontent.com/ashishcumar/str-interpolator/main/readmeAssets/Basic-Example.png)
 
 ### Nested Object Example
 
 The function supports nested objects, allowing you to replace placeholders with values deep within an object structure.
 
-![Nested Object Example](readmeAssets/Nested-Object-Example.png)
+![Nested Object Example](https://raw.githubusercontent.com/ashishcumar/str-interpolator/main/readmeAssets/Nested-Object-Example.png)
 
 ### Function Signature
 
