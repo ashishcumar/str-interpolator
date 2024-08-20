@@ -2,6 +2,14 @@
 
 A TypeScript utility function to replace placeholders in a string with values from an object, supporting both simple and nested object paths.
 
+![Build](https://img.shields.io/github/actions/workflow/status/ashishcumar/str-interpolator/publish.yml)
+![Fast](https://img.shields.io/badge/fast-12kb-blue)
+![Lightweight](https://img.shields.io/badge/lightweight-12kb-green)
+![Npm-Version](https://img.shields.io/npm/v/str-interpolator.svg)
+![Trusted](https://img.shields.io/badge/trusted-1kb-orange)
+![No Dependency](https://img.shields.io/badge/dependencies-none-brightgreen)
+
+
 ## Installation
 
 Install the package via npm:
